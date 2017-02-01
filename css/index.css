@@ -81,8 +81,8 @@
 	border-style: none;
 	border-color: transparent;
 	padding: 15px;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: fixed;
 	top: 281px;
@@ -111,9 +111,9 @@
 	border-style: none;
 	border-color: transparent;
 	padding: 15px;
-	line-height: 20px;
 	color: #999999;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: fixed;
 	top: 282px;
@@ -178,8 +178,8 @@
 	z-index: 76;
 	width: 280px;
 	min-height: 25px;
-	letter-spacing: 1px;
 	font-size: 18px;
+	letter-spacing: 1px;
 	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -233,9 +233,9 @@
 	z-index: 22;
 	width: 163px;
 	min-height: 17px;
+	color: #FFFFFF;
 	font-size: 12px;
 	line-height: 14px;
-	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -248,8 +248,8 @@
 	z-index: 26;
 	width: 306px;
 	min-height: 148px;
-	font-size: 12px;
 	line-height: 17px;
+	font-size: 12px;
 	color: #FFFFFF;
 	position: fixed;
 	bottom: 5px;
@@ -265,9 +265,9 @@
 {
 	z-index: 30;
 	width: 0.01px;
-	height: 170px;
+	height: 190px;
 	position: fixed;
-	bottom: -16px;
+	bottom: -36px;
 	left: 671px;
 }
 
@@ -306,10 +306,10 @@
 	-khtml-border-radius: 2px;
 	border-radius: 2px;
 	padding: 6px;
-	letter-spacing: 1px;
 	font-size: 11px;
-	line-height: 11px;
 	color: #818181;
+	letter-spacing: 1px;
+	line-height: 11px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -403,10 +403,10 @@
 	-khtml-border-radius: 2px;
 	border-radius: 2px;
 	padding: 6px;
-	letter-spacing: 1px;
 	font-size: 11px;
-	line-height: 11px;
 	color: #818181;
+	letter-spacing: 1px;
+	line-height: 11px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -512,8 +512,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	color: #FF0000;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -533,8 +533,8 @@
 #widgetu1345.frm-subm-err-st #u1371-3 p
 {
 	color: #D7244C;
-	line-height: 1;
 	font-size: 14px;
+	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -549,8 +549,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 12px;
+	font-size: 12px;
 	color: #00FF00;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -583,8 +583,8 @@
 	background: url("../images/normal_submitbutton-u1372-17.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 109px;
-	left: 2px;
+	margin-top: 161px;
+	left: 8px;
 }
 
 #u1372-17:hover
@@ -638,10 +638,10 @@
 	-khtml-border-radius: 2px;
 	border-radius: 2px;
 	padding: 6px;
-	letter-spacing: 1px;
 	font-size: 11px;
-	line-height: 11px;
 	color: #818181;
+	letter-spacing: 1px;
+	line-height: 11px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -728,10 +728,10 @@
 	z-index: 17;
 	width: 266px;
 	min-height: 38px;
-	letter-spacing: 0px;
 	font-size: 30px;
-	line-height: 42px;
 	color: #FFFFFF;
+	letter-spacing: 0px;
+	line-height: 42px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: fixed;

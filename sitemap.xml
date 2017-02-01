@@ -31,6 +31,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://LosAngelesBornArtist.com/images/normal_submitbutton-u1547-17.png</loc>
+    <lastmod>2017-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://LosAngelesBornArtist.com/images/mouseover_submitbutton-u1547-17-r.png</loc>
+    <lastmod>2017-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://LosAngelesBornArtist.com/images/mouseover_submitbutton-u1547-17-m.png</loc>
+    <lastmod>2017-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://LosAngelesBornArtist.com/images/normal_submitbutton-u1547-17-fs.png</loc>
+    <lastmod>2017-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://LosAngelesBornArtist.com/images/20170121_121104512x387.jpg</loc>
     <lastmod>2017-01-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,30 +92,6 @@
   </url>
   <url>
     <loc>http://LosAngelesBornArtist.com/images/loading.gif</loc>
-    <lastmod>2017-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://LosAngelesBornArtist.com/images/normal_submitbutton-u1547-17.png</loc>
-    <lastmod>2017-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://LosAngelesBornArtist.com/images/mouseover_submitbutton-u1547-17-r.png</loc>
-    <lastmod>2017-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://LosAngelesBornArtist.com/images/mouseover_submitbutton-u1547-17-m.png</loc>
-    <lastmod>2017-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://LosAngelesBornArtist.com/images/normal_submitbutton-u1547-17-fs.png</loc>
     <lastmod>2017-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

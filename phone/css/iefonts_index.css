@@ -1,9 +1,4 @@
-#u1510-2,#u1514-4
-{
-	font-family: lato-n9, sans-serif;
-}
-
-#u1510-5,#u1515-4,#u1568-4
+#u1568-4
 {
 	font-family: lato-n4, sans-serif;
 }
@@ -31,5 +26,15 @@
 #widgetu1567_input,#widgetu1567_prompt,#widgetu1562_input,#widgetu1562_prompt,#widgetu1556_input,#widgetu1556_prompt
 {
 	font-family: lato, sans-serif;
+}
+
+#u1510-5,#u1515-4
+{
+	font-family: lato-n4, sans-serif;
+}
+
+#u1510-2,#u1514-4
+{
+	font-family: lato-n9, sans-serif;
 }
 
