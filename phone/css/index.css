@@ -75,7 +75,13 @@
 	position: relative;
 }
 
-#u1907
+#u1905_img
+{
+	margin-left: -66px;
+	margin-right: -66px;
+}
+
+#u2194
 {
 	z-index: 6;
 	width: 380px;
@@ -87,7 +93,13 @@
 	position: relative;
 }
 
-#u1909
+#u2194_img
+{
+	margin-top: -49px;
+	margin-bottom: -49px;
+}
+
+#u2203
 {
 	z-index: 8;
 	width: 380px;
@@ -99,17 +111,17 @@
 	position: relative;
 }
 
-#u1905_clip,#u1907_clip,#u1909_clip
+#u1905_clip,#u2194_clip,#u2203_clip
 {
 	overflow: hidden;
 	width: 380px;
 	height: 387px;
 }
 
-#u1905_img,#u1907_img,#u1909_img
+#u2203_img
 {
-	margin-left: -101px;
-	margin-right: -101px;
+	margin-left: -68px;
+	margin-right: -68px;
 }
 
 #u1903-3
@@ -166,7 +178,7 @@
 
 #u1519
 {
-	z-index: 74;
+	z-index: 77;
 	width: 380px;
 	height: 62px;
 	border-style: none;
@@ -207,17 +219,17 @@
 	-o-transform: matrix(0,1,-1,0,178,177);
 	transform: matrix(0,1,-1,0,178,177);
 	position: fixed;
-	top: 337px;
+	top: 300px;
 	left: 189px;
 }
 
 #u1510-5
 {
-	z-index: 75;
+	z-index: 78;
 	width: 280px;
 	min-height: 25px;
-	font-size: 18px;
 	letter-spacing: 1px;
+	font-size: 18px;
 	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -240,12 +252,12 @@
 
 #u1515-4
 {
-	z-index: 70;
+	z-index: 73;
 	width: 163px;
 	min-height: 17px;
-	color: #FFFFFF;
 	font-size: 12px;
 	line-height: 14px;
+	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -255,12 +267,12 @@
 
 #u1514-4
 {
-	z-index: 66;
+	z-index: 69;
 	width: 279px;
 	min-height: 38px;
+	letter-spacing: 0px;
 	font-size: 30px;
 	line-height: 42px;
-	letter-spacing: 0px;
 	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 900;
@@ -269,20 +281,20 @@
 	left: 36px;
 }
 
-#u1517-4
+#u1517-7
 {
 	z-index: 62;
 	width: 305px;
 	min-height: 130px;
-	font-size: 13px;
+	font-size: 12px;
+	line-height: 17px;
 	color: #FFFFFF;
-	line-height: 20px;
 	position: fixed;
-	top: 532px;
+	top: 509px;
 	left: 36px;
 }
 
-#u1517-2
+#u1517-2,#u1517-3,#u1517-5
 {
 	padding-right: 3px;
 }
@@ -532,8 +544,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	font-size: 12px;
-	color: #FF0000;
 	line-height: 14px;
+	color: #FF0000;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -552,8 +564,8 @@
 #widgetu1545.frm-subm-err-st #u1546-3 p
 {
 	color: #D7244C;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -569,8 +581,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	font-size: 12px;
-	color: #00FF00;
 	line-height: 12px;
+	color: #00FF00;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -743,7 +755,7 @@
 
 #u1511
 {
-	z-index: 80;
+	z-index: 83;
 	width: 90px;
 	min-height: 39px;
 	border-style: none;

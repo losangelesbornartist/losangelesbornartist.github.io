@@ -178,8 +178,8 @@
 	z-index: 76;
 	width: 280px;
 	min-height: 25px;
-	font-size: 18px;
 	letter-spacing: 1px;
+	font-size: 18px;
 	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -233,9 +233,9 @@
 	z-index: 22;
 	width: 163px;
 	min-height: 17px;
-	color: #FFFFFF;
 	font-size: 12px;
 	line-height: 14px;
+	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -249,8 +249,8 @@
 	width: 306px;
 	min-height: 148px;
 	font-size: 12px;
-	color: #FFFFFF;
 	line-height: 17px;
+	color: #FFFFFF;
 	position: fixed;
 	bottom: 5px;
 	left: 339px;
@@ -265,9 +265,9 @@
 {
 	z-index: 30;
 	width: 0.01px;
-	height: 181px;
+	height: 170px;
 	position: fixed;
-	bottom: -27px;
+	bottom: -16px;
 	left: 671px;
 }
 
@@ -306,9 +306,9 @@
 	-khtml-border-radius: 2px;
 	border-radius: 2px;
 	padding: 6px;
+	letter-spacing: 1px;
 	font-size: 11px;
 	line-height: 11px;
-	letter-spacing: 1px;
 	color: #818181;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -403,9 +403,9 @@
 	-khtml-border-radius: 2px;
 	border-radius: 2px;
 	padding: 6px;
+	letter-spacing: 1px;
 	font-size: 11px;
 	line-height: 11px;
-	letter-spacing: 1px;
 	color: #818181;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -513,8 +513,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	font-size: 12px;
-	color: #FF0000;
 	line-height: 14px;
+	color: #FF0000;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -533,8 +533,8 @@
 #widgetu1345.frm-subm-err-st #u1371-3 p
 {
 	color: #D7244C;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -550,8 +550,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	font-size: 12px;
-	color: #00FF00;
 	line-height: 12px;
+	color: #00FF00;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -583,7 +583,7 @@
 	background: url("../images/normal_submitbutton-u1372-17.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 152px;
+	margin-top: 109px;
 	left: 2px;
 }
 
@@ -638,9 +638,9 @@
 	-khtml-border-radius: 2px;
 	border-radius: 2px;
 	padding: 6px;
+	letter-spacing: 1px;
 	font-size: 11px;
 	line-height: 11px;
-	letter-spacing: 1px;
 	color: #818181;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -728,9 +728,9 @@
 	z-index: 17;
 	width: 266px;
 	min-height: 38px;
+	letter-spacing: 0px;
 	font-size: 30px;
 	line-height: 42px;
-	letter-spacing: 0px;
 	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 900;

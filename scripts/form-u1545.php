@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 
 function emailFormSubmission()
 {
-	$to = 'newcomb@adobe.com';
+	$to = 'lincoln2351@gmail.com';
 	$subject = 'Home Form Submission';
 	
 	$message = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><title>' . htmlentities($subject,ENT_COMPAT,'UTF-8') . '</title></head>';
@@ -37,7 +37,7 @@ function emailFormSubmission()
 	$message = cleanupMessage($message);
 	
 	$formEmail = cleanupEmail($_REQUEST['Email']);
-	$headers = 'From:  newcomb@adobe.com' . "\r\n" . 'Reply-To: ' . $formEmail .  "\r\n" .'X-Mailer: Adobe Muse 7.4.30 with PHP/' . phpversion() . "\r\n" . 'Content-type: text/html; charset=utf-8' . "\r\n";
+	$headers = 'From:  lincoln2351@gmail.com' . "\r\n" . 'Reply-To: ' . $formEmail .  "\r\n" .'X-Mailer: Adobe Muse 7.4.30 with PHP/' . phpversion() . "\r\n" . 'Content-type: text/html; charset=utf-8' . "\r\n";
 	
 	$sent = @mail($to, $subject, $message, $headers);
 	
