@@ -147,7 +147,7 @@
 
 #u1335
 {
-	z-index: 74;
+	z-index: 77;
 	width: 1160px;
 	height: 62px;
 	border-style: none;
@@ -162,7 +162,7 @@
 
 #u1337
 {
-	z-index: 75;
+	z-index: 78;
 	width: 90px;
 	min-height: 39px;
 	border-style: none;
@@ -173,31 +173,14 @@
 	right: 33px;
 }
 
-#u1336-5
+#u1336-6
 {
-	z-index: 76;
-	width: 280px;
-	min-height: 25px;
-	font-size: 18px;
-	letter-spacing: 1px;
-	line-height: 22px;
-	font-family: lato, sans-serif;
-	font-weight: 400;
+	z-index: 79;
+	display: block;
+	vertical-align: top;
 	position: fixed;
 	top: 20px;
 	left: 30px;
-}
-
-#u1336
-{
-	color: #000000;
-}
-
-#u1336-2
-{
-	color: #000000;
-	font-family: lato, sans-serif;
-	font-weight: 900;
 }
 
 #u1339
@@ -243,7 +226,7 @@
 	left: 31px;
 }
 
-#u1343-4
+#u1343-7
 {
 	z-index: 26;
 	width: 306px;
@@ -256,14 +239,14 @@
 	left: 339px;
 }
 
-#u1343-2
+#u1343-2,#u1343-3,#u1343-5
 {
 	padding-right: 3px;
 }
 
 #widgetu1345
 {
-	z-index: 30;
+	z-index: 33;
 	width: 0.01px;
 	height: 190px;
 	position: fixed;
@@ -273,7 +256,7 @@
 
 #widgetu1347
 {
-	z-index: 31;
+	z-index: 34;
 	width: 275px;
 	height: 26px;
 	border-style: none;
@@ -295,7 +278,7 @@
 
 #u1348-4
 {
-	z-index: 32;
+	z-index: 35;
 	width: 263px;
 	min-height: 14px;
 	border-color: #C4C4C4;
@@ -369,7 +352,7 @@
 
 #widgetu1374
 {
-	z-index: 36;
+	z-index: 39;
 	width: 275px;
 	height: 26px;
 	border-style: none;
@@ -392,7 +375,7 @@
 
 #u1377-4
 {
-	z-index: 37;
+	z-index: 40;
 	width: 263px;
 	min-height: 14px;
 	border-color: #C4C4C4;
@@ -473,7 +456,7 @@
 
 #u1373-4
 {
-	z-index: 41;
+	z-index: 44;
 	width: 184px;
 	min-height: 14px;
 	background-color: transparent;
@@ -504,7 +487,7 @@
 
 #u1371-3
 {
-	z-index: 45;
+	z-index: 48;
 	width: 184px;
 	min-height: 14px;
 	background-color: transparent;
@@ -541,7 +524,7 @@
 
 #u1346-4
 {
-	z-index: 48;
+	z-index: 51;
 	width: 184px;
 	min-height: 12px;
 	background-color: transparent;
@@ -577,7 +560,7 @@
 
 #u1372-17
 {
-	z-index: 52;
+	z-index: 55;
 	min-height: 29px;
 	width: 130px;
 	background: url("../images/normal_submitbutton-u1372-17.png") no-repeat 0px 0px;
@@ -604,7 +587,7 @@
 
 #widgetu1352
 {
-	z-index: 69;
+	z-index: 72;
 	width: 275px;
 	height: 48px;
 	border-style: none;
@@ -627,7 +610,7 @@
 
 #u1354-4
 {
-	z-index: 70;
+	z-index: 73;
 	width: 263px;
 	min-height: 36px;
 	border-color: #C4C4C4;

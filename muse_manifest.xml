@@ -1,8 +1,8 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4235156510"/>
-    <file name="index.css" crc="3803346756" ref="index"/>
-    <file name="iefonts_index.css" crc="13158033" ref="index"/>
+    <file name="index.css" crc="3895989348" ref="index"/>
+    <file name="iefonts_index.css" crc="3828385389" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -34,6 +34,7 @@
     <file name="mobile_left.png" crc="527223065" ref="phone>index"/>
     <file name="mobile_right.png" crc="480301005" ref="phone>index"/>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="u1510-6.png" crc="3866708526" ref="phone>index"/>
     <file name="20170121_121104.jpg" crc="4257275410" ref="index"/>
     <file name="20170121_121248.jpg" crc="4216186556" ref="index"/>
     <file name="20170121_121420.jpg" crc="152742158" ref="index"/>
@@ -41,6 +42,7 @@
     <file name="mouseover_button_left.png" crc="34564842" ref="index"/>
     <file name="normal_button.png" crc="520087353" ref="index"/>
     <file name="mouseover_button.png" crc="396336536" ref="index"/>
+    <file name="u1336-6.png" crc="4284315477" ref="index"/>
     <file name="normal_submitbutton-u1372-17.png" crc="3916233245" ref="index"/>
     <file name="mouseover_submitbutton-u1372-17-r.png" crc="3797230531" ref="index"/>
     <file name="mouseover_submitbutton-u1372-17-m.png" crc="3797230531" ref="index"/>
@@ -48,10 +50,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="52269417" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="436462044" ref="phone>index"/>
+      <file name="index.css" crc="287502938" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4160659052" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4165958007" mt="1485930738541" redirect="true"/>
+    <file name="index.html" crc="314240205" mt="1486104471684" redirect="true"/>
   </folder>
-  <file name="index.html" crc="49266758" mt="1485930740765" redirect="true"/>
+  <file name="index.html" crc="379873144" mt="1486104475075" redirect="true"/>
 </manifest>
