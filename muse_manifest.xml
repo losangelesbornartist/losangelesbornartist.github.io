@@ -1,7 +1,7 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4235156510"/>
-    <file name="index.css" crc="4001216349" ref="index"/>
+    <file name="index.css" crc="3856023863" ref="index"/>
     <file name="iefonts_index.css" crc="3828385389" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -53,10 +53,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="267562227" ref="phone>index"/>
+      <file name="index.css" crc="175779101" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4253816500" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="321972622" mt="1487581176230" redirect="true"/>
+    <file name="index.html" crc="3840980172" mt="1487582440625" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4203606684" mt="1487581180777" redirect="true"/>
+  <file name="index.html" crc="4206085715" mt="1487582445094" redirect="true"/>
 </manifest>
