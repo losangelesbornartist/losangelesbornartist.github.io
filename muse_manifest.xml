@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.LosAngelesBornArtist.com" resolutions="1x" timestamp="1512982735720">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.LosAngelesBornArtist.com" resolutions="1x" timestamp="1512983242507">
   <folder name="css">
     <file name="site_global.css" crc="3887786727"/>
-    <file name="index.css" crc="185450413" ref="index"/>
+    <file name="index.css" crc="3999005925" ref="index"/>
     <file name="iefonts_index.css" crc="4270114211" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -13,11 +13,11 @@
     <file name="musewpslideshow.js" crc="3781122836" ref="phone>index:index"/>
     <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>index:index"/>
     <file name="touchswipe.js" crc="4200445185" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:index"/>
     <file name="form_check.php" crc="154010282" ref="phone>index"/>
     <file name="form_throttle.php" crc="266437015" ref="phone>index"/>
     <file name="form_process.php" crc="512629711" ref="phone>index"/>
     <file name="form-u1545.php" crc="4095294856" ref="phone>index"/>
-    <file name="jquery.watch.js" crc="460461809" ref="phone>index:index"/>
     <file name="jquery.scrolleffects.js" crc="128250821" ref="phone>index"/>
     <file name="require.js" crc="3951022091" ref="phone>index:index"/>
     <file name="form-u1345.php" crc="342998937" ref="index"/>
@@ -82,8 +82,8 @@
       <caption webpage="index" alt="Submit"/>
       <caption webpage="index" alt="Submit"/>
     </file>
-    <file name="u1510-6.png" crc="425190135" ref="phone>index"/>
     <file name="u1517-11.png" crc="3927725265" ref="phone>index"/>
+    <file name="u1510-6.png" crc="425190135" ref="phone>index"/>
     <file name="20170121_121104.jpg" crc="4257275410" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -122,10 +122,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4001311651" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="4246048127" ref="phone>index"/>
+      <file name="index.css" crc="4093418161" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4226546186" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3930563380" seo="true" mt="1512982692455" redirect="true"/>
+    <file name="index.html" crc="4239097044" seo="true" mt="1512983217459" redirect="true"/>
   </folder>
-  <file name="index.html" crc="297044689" seo="true" mt="1512979496548" redirect="true"/>
+  <file name="index.html" crc="3841824467" seo="true" mt="1512979496548" redirect="true"/>
 </manifest>
