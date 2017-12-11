@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LosAngelesBornArtist.com" resolutions="1x" timestamp="1512984993453">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.LosAngelesBornArtist.com" resolutions="1x" timestamp="1512985275338">
   <folder name="css">
     <file name="site_global.css" crc="3887786727"/>
-    <file name="index.css" crc="3908451048" ref="index"/>
+    <file name="index.css" crc="4045221510" ref="index"/>
     <file name="iefonts_index.css" crc="4270114211" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -34,16 +34,16 @@
     <file name="20170121_121420-crop-u2203.jpg" crc="173212406" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170324_153912-01.jpg" crc="4225264634" seo="true" ref="phone>index">
+    <file name="20170324_153912-01387x387.jpg" crc="214570184" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170517_090220-crop-u2445.jpg" crc="4002278274" seo="true" ref="phone>index">
+    <file name="20170517_090220-crop-u2641.jpg" crc="230272292" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171210_232550-01-crop-u2480.jpg" crc="3835951797" seo="true" ref="phone>index">
+    <file name="20171210_232550-01-crop-u2732.jpg" crc="4123490448" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170612_082840.jpg" crc="115346575" seo="true" ref="phone>index">
+    <file name="20170612_082840393x387.jpg" crc="115346575" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="20170121_12110460x46.jpg" crc="4230760382" seo="true" ref="phone>index">
@@ -55,16 +55,16 @@
     <file name="20170121_12142061x45.jpg" crc="229197222" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170324_153912-01-crop-u2419.jpg" crc="306633950" seo="true" ref="phone>index">
+    <file name="20170324_153912-01-crop-u2618.jpg" crc="306633950" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170517_090220-crop-u2454.jpg" crc="4227655691" seo="true" ref="phone>index">
+    <file name="20170517_090220-crop-u2650.jpg" crc="4227655691" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171210_232550-01-crop-u2489.jpg" crc="397641046" seo="true" ref="phone>index">
+    <file name="20171210_232550-01-crop-u2741.jpg" crc="397641046" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170612_082840-crop-u2524.jpg" crc="3898525413" seo="true" ref="phone>index">
+    <file name="20170612_082840-crop-u2682.jpg" crc="3898525413" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mobile_left.png" crc="527223065" ref="phone>index">
@@ -82,6 +82,7 @@
       <caption webpage="index" alt="Submit"/>
       <caption webpage="index" alt="Submit"/>
     </file>
+    <file name="u1517-14.png" crc="4135437062" ref="phone>index"/>
     <file name="u1510-6.png" crc="425190135" ref="phone>index"/>
     <file name="20170121_121104.jpg" crc="4257275410" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -90,6 +91,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="20170121_121420.jpg" crc="152742158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170324_153912-01.jpg" crc="135239018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170517_090220.jpg" crc="14336037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20171210_232550-01.jpg" crc="3858693886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170612_082840.jpg" crc="4079620880" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="normal_button_left.png" crc="4212258854" ref="index">
@@ -104,14 +117,15 @@
     <file name="mouseover_button.png" crc="396336536" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u1343-11.png" crc="3818605656" ref="index"/>
     <file name="u1336-6.png" crc="415640730" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3983734755" ref="phone>index"/>
+      <file name="index.css" crc="4204664538" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4226546186" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4129753063" seo="true" mt="1512984965189" redirect="true"/>
+    <file name="index.html" crc="251523984" seo="true" mt="1512985247716" redirect="true"/>
   </folder>
-  <file name="index.html" crc="87414415" seo="true" mt="1512984511273" redirect="true"/>
+  <file name="index.html" crc="59424669" seo="true" mt="1512979496548" redirect="true"/>
 </manifest>

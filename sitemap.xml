@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://LosAngelesBornArtist.com/index.html</loc>
+    <loc>http://www.LosAngelesBornArtist.com/index.html</loc>
     <lastmod>2017-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://LosAngelesBornArtist.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.LosAngelesBornArtist.com/phone/index.html"/>
     <image:image>
-      <image:loc>http://LosAngelesBornArtist.com/images/20170121_121104.jpg</image:loc>
+      <image:loc>http://www.LosAngelesBornArtist.com/images/20170121_121104.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://LosAngelesBornArtist.com/images/20170121_121248.jpg</image:loc>
+      <image:loc>http://www.LosAngelesBornArtist.com/images/20170121_121248.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://LosAngelesBornArtist.com/images/20170121_121420.jpg</image:loc>
+      <image:loc>http://www.LosAngelesBornArtist.com/images/20170121_121420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.LosAngelesBornArtist.com/images/20170324_153912-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.LosAngelesBornArtist.com/images/20170517_090220.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.LosAngelesBornArtist.com/images/20171210_232550-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.LosAngelesBornArtist.com/images/20170612_082840.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
