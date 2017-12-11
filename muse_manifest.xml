@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LosAngelesBornArtist.com" resolutions="1x" timestamp="1512984745517">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LosAngelesBornArtist.com" resolutions="1x" timestamp="1512984993453">
   <folder name="css">
     <file name="site_global.css" crc="3887786727"/>
     <file name="index.css" crc="3908451048" ref="index"/>
@@ -82,7 +82,6 @@
       <caption webpage="index" alt="Submit"/>
       <caption webpage="index" alt="Submit"/>
     </file>
-    <file name="u1517-10.png" crc="3809404444" ref="phone>index"/>
     <file name="u1510-6.png" crc="425190135" ref="phone>index"/>
     <file name="20170121_121104.jpg" crc="4257275410" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -109,10 +108,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="92186171" ref="phone>index"/>
+      <file name="index.css" crc="3983734755" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4226546186" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3761412045" seo="true" mt="1512984717439" redirect="true"/>
+    <file name="index.html" crc="4129753063" seo="true" mt="1512984965189" redirect="true"/>
   </folder>
   <file name="index.html" crc="87414415" seo="true" mt="1512984511273" redirect="true"/>
 </manifest>
