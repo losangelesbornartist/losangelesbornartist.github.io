@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.LosAngelesBornArtist.com" resolutions="1x" timestamp="1512979829160">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.LosAngelesBornArtist.com" resolutions="1x" timestamp="1512982735720">
   <folder name="css">
     <file name="site_global.css" crc="3887786727"/>
-    <file name="index.css" crc="252989386" ref="index"/>
+    <file name="index.css" crc="185450413" ref="index"/>
     <file name="iefonts_index.css" crc="4270114211" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -28,7 +28,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
-    <file name="20170121_121248-crop-u2194.jpg" crc="4277214950" seo="true" ref="phone>index">
+    <file name="20170121_121248-crop-u2194.jpg" crc="58121726" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="20170121_121420-crop-u2203.jpg" crc="173212406" seo="true" ref="phone>index">
@@ -83,7 +83,7 @@
       <caption webpage="index" alt="Submit"/>
     </file>
     <file name="u1510-6.png" crc="425190135" ref="phone>index"/>
-    <file name="u1517-11.png" crc="3900883719" ref="phone>index"/>
+    <file name="u1517-11.png" crc="3927725265" ref="phone>index"/>
     <file name="20170121_121104.jpg" crc="4257275410" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -122,10 +122,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="84120145" ref="phone>index"/>
+      <file name="index.css" crc="4001311651" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4246048127" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4020026511" seo="true" mt="1512979704400" redirect="true"/>
+    <file name="index.html" crc="3930563380" seo="true" mt="1512982692455" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3871337817" seo="true" mt="1512979496548" redirect="true"/>
+  <file name="index.html" crc="297044689" seo="true" mt="1512979496548" redirect="true"/>
 </manifest>
